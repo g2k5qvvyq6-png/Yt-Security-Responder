@@ -1,4 +1,4 @@
-# 🛡️ 网络安全 AI 分析 Agent（小米 MiMo 激励计划演示）
+# 网络安全 AI 分析 Agent
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -6,7 +6,7 @@
 
 ##  项目简介
 
-本项目是申请 **Xiaomi MiMo Orbit 百万亿 Token 创造者激励计划** 的演示仓库。
+本项目是自动化安全事件分析与智能响应 Agent仓库。
 
 我们专注于网络安全产品开发，为解决企业安全运营中的 **告警疲劳** 与 **响应延迟** 痛点，利用大模型技术构建了一款自动化安全事件分析与响应 Agent。该 Agent 具备**长链推理**与**多 Agent 协作**能力，能够自动研判告警、重构攻击链并执行阻断动作。
 
